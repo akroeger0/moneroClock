@@ -8,7 +8,8 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "g:\\My Drive\\MoneroClock\\moneroClock\\index.html"
+            "file": "g:\\My Drive\\MoneroClock\\moneroClock\\index.html",
+            "runtimeExecutable": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
         }
     ]
 }
